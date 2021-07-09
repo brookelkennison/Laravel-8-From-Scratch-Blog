@@ -11,21 +11,21 @@
 
 <body>
     <article>
-        <h1><a href="/post">First Post</a></h1>
+        <h1><a href="/posts/my-first-post">First Post</a></h1>
         <p>
             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi lacinia auctor lectus lobortis feugiat. Suspendisse potenti. Quisque non laoreet ante, a condimentum elit. Praesent vitae euismod lacus. Phasellus at purus non leo volutpat dignissim vel in lectus. Quisque ornare fringilla leo, vitae varius lacus interdum vitae. Vestibulum egestas lacinia elit ac eleifend. Etiam volutpat metus eu ex elementum faucibus. Nulla a eros ligula. Phasellus sollicitudin tortor sed quam tincidunt aliquet. Nulla pretium nunc non sapien aliquet, in tristique ante ultricies. Nullam non urna id nulla malesuada scelerisque. Duis et accumsan turpis. Vestibulum vulputate mattis aliquam. Fusce ac suscipit enim.
         </p>
     </article>
 
     <article>
-        <h1><a href="/post">Second Post</a></h1>
+        <h1><a href="/posts/my-second-post">Second Post</a></h1>
         <p>
             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi lacinia auctor lectus lobortis feugiat. Suspendisse potenti. Quisque non laoreet ante, a condimentum elit. Praesent vitae euismod lacus. Phasellus at purus non leo volutpat dignissim vel in lectus. Quisque ornare fringilla leo, vitae varius lacus interdum vitae. Vestibulum egestas lacinia elit ac eleifend. Etiam volutpat metus eu ex elementum faucibus. Nulla a eros ligula. Phasellus sollicitudin tortor sed quam tincidunt aliquet. Nulla pretium nunc non sapien aliquet, in tristique ante ultricies. Nullam non urna id nulla malesuada scelerisque. Duis et accumsan turpis. Vestibulum vulputate mattis aliquam. Fusce ac suscipit enim.
         </p>
     </article>
 
     <article>
-        <h1><a href="/post">Third Post</a></h1>
+        <h1><a href="/posts/my-third-post">Third Post</a></h1>
         <p>
             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi lacinia auctor lectus lobortis feugiat. Suspendisse potenti. Quisque non laoreet ante, a condimentum elit. Praesent vitae euismod lacus. Phasellus at purus non leo volutpat dignissim vel in lectus. Quisque ornare fringilla leo, vitae varius lacus interdum vitae. Vestibulum egestas lacinia elit ac eleifend. Etiam volutpat metus eu ex elementum faucibus. Nulla a eros ligula. Phasellus sollicitudin tortor sed quam tincidunt aliquet. Nulla pretium nunc non sapien aliquet, in tristique ante ultricies. Nullam non urna id nulla malesuada scelerisque. Duis et accumsan turpis. Vestibulum vulputate mattis aliquam. Fusce ac suscipit enim.
         </p>
