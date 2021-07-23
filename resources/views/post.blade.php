@@ -9,7 +9,8 @@
 </head>
 <body>
 <article>
-        <?= $post; ?>
+        <?= $post->title; ?>
+        <div><?= $post->body; ?></div>
     </article>
 
     <a href="/">Go Back</a>
